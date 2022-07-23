@@ -1,4 +1,5 @@
 .ipynb_checkpoints
+*.h5ad
 bad
 __pycache__
 EDA*
